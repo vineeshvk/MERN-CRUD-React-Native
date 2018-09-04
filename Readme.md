@@ -1,4 +1,4 @@
-# MERN - CRUD (React Native)
+## MERN - CRUD (React Native)
 
 It is a simple app which is build using MERN
 
@@ -7,17 +7,19 @@ It is a simple app which is build using MERN
 - R-React Native
 - N-NodeJs
 
+### Screenshots
+
+![](MERN-RN/assets/screenshot1.png)
+![](MERN-RN/assets/screenshot2.png)
+
 ### Libraries used
+
 - react-redux
 - express
 - mongoose
 - react-native-paper
 - react-navigation
 - react-native-actionsheet
-
-
-### Screenshots
-
 
 ### Requirements
 
@@ -33,4 +35,4 @@ Start the server under server/ folder
 
 Then go to expo XDE and import the project and run the app
 
-> Note: If you are on Android please find out the local IP address of your system and enter it under the file **constants.js** found under **MERN-RN/src/config/constants**
+> **Note** : If you are on Android please find out the local IP address of your system and enter it under the file **constants.js** found under **MERN-RN/src/config/constants**
